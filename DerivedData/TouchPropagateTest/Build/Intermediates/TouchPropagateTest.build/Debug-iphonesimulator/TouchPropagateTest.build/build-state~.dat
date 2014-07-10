@@ -1,0 +1,344 @@
+TTouchPropagateTest
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/PrecompiledHeaders/TouchPropagateTest-Prefix-fnfylsnpqtsvvwgmzjxolcvzghqi/TouchPropagateTest-Prefix.pch.pch TouchPropagateTest/TouchPropagateTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/TPTRootViewController.o /Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/TPTRootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/AppDelegate.o /Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/main.o /Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/TouchPropagateTest normal i386
+cGenerateDSYMFile /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app.dSYM /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/TouchPropagateTest
+cCopyStringsFile /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/en.lproj/InfoPlist.strings TouchPropagateTest/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app /Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/Images.xcassets
+cProcessInfoPlistFile /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/Info.plist /Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/TouchPropagateTest-Info.plist
+cTouch /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000521BCCE50000000000000176
+t1377553637
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000522ACC8F00000000000003B5
+t1378536591
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000522ACCD2000000000000019E
+t1378536658
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000522ACCEE0000000000445830
+t1378536686
+s4479024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000522ACCFA000000000088B570
+t1378536698
+s8959344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000522ACD200000000001DB1C90
+t1378536736
+s31136912
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000520D88540000000000000AC9
+t1376618580
+s2761
+
+N/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/PrecompiledHeaders/TouchPropagateTest-Prefix-fnfylsnpqtsvvwgmzjxolcvzghqi/TouchPropagateTest-Prefix.pch.pch
+t1405019205
+s108844
+
+N/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/AppDelegate.o
+t1405019205
+s67504
+
+N/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/TPTRootViewController.o
+t1405019205
+s62080
+
+N/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/TouchPropagateTest.LinkFileList
+c0000000053BEE4440000000000000261
+t1405019204
+s609
+
+N/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/main.o
+t1405019205
+s3692
+
+N/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/assetcatalog_dependencies.txt
+t1405019207
+s529
+
+N/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/assetcatalog_generated_info.plist
+t1405019207
+s525
+
+N/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app
+t1405019207
+s272
+
+N/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app.dSYM
+t2
+s0
+
+N/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/Info.plist
+t1405019207
+s1226
+
+N/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/PkgInfo
+t1405019207
+s8
+
+N/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/TouchPropagateTest
+t1405019205
+s30032
+
+N/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/en.lproj/InfoPlist.strings
+t1405019205
+s42
+
+N/Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/AppDelegate.m
+c0000000053BEE4430000000000000938
+t1405019203
+s2360
+
+N/Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/Images.xcassets
+c0000000053BEDD550000000000000088
+t1405017429
+s136
+
+N/Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/TPTRootViewController.m
+c0000000053BEE4130000000000001B46
+t1405019155
+s6982
+
+N/Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/TouchPropagateTest-Info.plist
+c0000000053BEDD5500000000000005AC
+t1405017429
+s1452
+
+N/Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/TouchPropagateTest-Prefix.pch
+c0000000053BEDD550000000000000158
+t1405017429
+s344
+
+N/Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/en.lproj/InfoPlist.strings
+c0000000053BEDD55000000000000002D
+t1405017429
+s45
+
+N/Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/main.m
+c0000000053BEDD550000000000000159
+t1405017429
+s345
+
+CBuild AST from /Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/AppDelegate.m
+r0
+
+CBuild AST from /Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/TPTRootViewController.m
+r0
+
+CBuild AST from /Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesa9ddcfc41b6fb941^44bfd6c41b6fb941^---0#1#1#--18"Check dependencies36"4A3DA16C-9967-4D71-A291-7C23A9580A8F-
+
+CCompileAssetCatalog /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app /Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/Images.xcassets
+s426712005.860724
+e426712007.291882
+r1
+xCompileAssetCatalog
+x/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app
+x/Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/LaunchImage-700-568h@2x.png
+o/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/Assets.car
+o/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"CompileAssetCatalog DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app TouchPropagateTest/Images.xcassets145"CompileAssetCatalog DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app TouchPropagateTest/Images.xcassets7369dcc51b6fb941^fab84ac71b6fb941^-557"/* com.apple.actool.compilation-results *//Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/LaunchImage-700-568h@2x.png/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/Assets.car/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@87"file:///Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/Images.xcassets/0000000000000000^1566"CompileAssetCatalog DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app TouchPropagateTest/Images.xcassets    cd /Users/pdougherty/Desktop/TouchPropagateTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Developer/android-sdk/tools:/Developer/android-sdk/platform-tools:/Developer/android-ndk:/Developer/moto"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --target-device ipad --compress-pngs --compile /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app /Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/Images.xcassets36"0142322E-0557-434F-9911-3B968766239B-
+b224BAD45-C832-4F5A-A863-43CF2EB4EE4A
+
+CCompileC DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/AppDelegate.o /Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426712005.721187
+e426712005.783958
+r1
+xCompileC
+xDerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/AppDelegate.o
+x/Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/AppDelegate.m
+d/Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/AppDelegate.h
+d/Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/TPTRootViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/AppDelegate.m266"CompileC DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/AppDelegate.o TouchPropagateTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd4b7b8c51b6fb941^0bb7c8c51b6fb941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/AppDelegate.m0000000000000000^4607"CompileC DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/AppDelegate.o TouchPropagateTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pdougherty/Desktop/TouchPropagateTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Developer/android-sdk/tools:/Developer/android-sdk/platform-tools:/Developer/android-ndk:/Developer/moto"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/TouchPropagateTest-generated-files.hmap -I/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/TouchPropagateTest-own-target-headers.hmap -I/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/TouchPropagateTest-all-target-headers.hmap -iquote /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/TouchPropagateTest-project-headers.hmap -I/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/DerivedSources/i386 -I/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/DerivedSources -F/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator -include /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/PrecompiledHeaders/TouchPropagateTest-Prefix-fnfylsnpqtsvvwgmzjxolcvzghqi/TouchPropagateTest-Prefix.pch -MMD -MT dependencies -MF /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/AppDelegate.dia -c /Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/AppDelegate.m -o /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/AppDelegate.o36"E6057415-FA0C-4CC0-9151-33A09FB6CC4D-
+b224BAD45-C832-4F5A-A863-43CF2EB4EE4A
+
+CCompileC DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/TPTRootViewController.o /Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/TPTRootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426712005.720958
+e426712005.783953
+r1
+xCompileC
+xDerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/TPTRootViewController.o
+x/Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/TPTRootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/TPTRootViewController.m
+d/Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/TPTRootViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/TPTRootViewController.m286"CompileC DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/TPTRootViewController.o TouchPropagateTest/TPTRootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler60abb8c51b6fb941^2db3c8c51b6fb941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/TPTRootViewController.m0000000000000000^4667"CompileC DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/TPTRootViewController.o TouchPropagateTest/TPTRootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pdougherty/Desktop/TouchPropagateTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Developer/android-sdk/tools:/Developer/android-sdk/platform-tools:/Developer/android-ndk:/Developer/moto"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/TouchPropagateTest-generated-files.hmap -I/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/TouchPropagateTest-own-target-headers.hmap -I/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/TouchPropagateTest-all-target-headers.hmap -iquote /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/TouchPropagateTest-project-headers.hmap -I/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/DerivedSources/i386 -I/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/DerivedSources -F/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator -include /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/PrecompiledHeaders/TouchPropagateTest-Prefix-fnfylsnpqtsvvwgmzjxolcvzghqi/TouchPropagateTest-Prefix.pch -MMD -MT dependencies -MF /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/TPTRootViewController.d --serialize-diagnostics /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/TPTRootViewController.dia -c /Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/TPTRootViewController.m -o /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/TPTRootViewController.o36"77257272-91F2-478D-A27F-1007EC86BCBE-
+b224BAD45-C832-4F5A-A863-43CF2EB4EE4A
+
+CCompileC DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/main.o /Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426712005.721393
+e426712005.753527
+r1
+xCompileC
+xDerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/main.o
+x/Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/main.m
+d/Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/main.m252"CompileC DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/main.o TouchPropagateTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler26c4b8c51b6fb941^32e8c0c51b6fb941^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/main.m0000000000000000^4565"CompileC DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/main.o TouchPropagateTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pdougherty/Desktop/TouchPropagateTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Developer/android-sdk/tools:/Developer/android-sdk/platform-tools:/Developer/android-ndk:/Developer/moto"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/TouchPropagateTest-generated-files.hmap -I/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/TouchPropagateTest-own-target-headers.hmap -I/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/TouchPropagateTest-all-target-headers.hmap -iquote /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/TouchPropagateTest-project-headers.hmap -I/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/DerivedSources/i386 -I/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/DerivedSources -F/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator -include /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/PrecompiledHeaders/TouchPropagateTest-Prefix-fnfylsnpqtsvvwgmzjxolcvzghqi/TouchPropagateTest-Prefix.pch -MMD -MT dependencies -MF /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/main.dia -c /Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/main.m -o /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/main.o36"3B9665D7-BB0F-4C32-8570-7069FC5A3367-
+b224BAD45-C832-4F5A-A863-43CF2EB4EE4A
+
+CCopyStringsFile /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/en.lproj/InfoPlist.strings TouchPropagateTest/en.lproj/InfoPlist.strings
+s426712005.860406
+e426712005.862664
+r1
+xCopyStringsFile
+x/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/en.lproj/InfoPlist.strings
+xTouchPropagateTest/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy TouchPropagateTest/en.lproj/InfoPlist.strings179"CopyStringsFile DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/en.lproj/InfoPlist.strings TouchPropagateTest/en.lproj/InfoPlist.stringsdc7fdcc51b6fb941^88d8dcc51b6fb941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/en.lproj/InfoPlist.strings0000000000000000^876"CopyStringsFile DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/en.lproj/InfoPlist.strings TouchPropagateTest/en.lproj/InfoPlist.strings    cd /Users/pdougherty/Desktop/TouchPropagateTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Developer/android-sdk/tools:/Developer/android-sdk/platform-tools:/Developer/android-ndk:/Developer/moto"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/en.lproj -- TouchPropagateTest/en.lproj/InfoPlist.strings36"B21E21E3-3192-4ED5-8CFD-CF7F3556A634-
+b224BAD45-C832-4F5A-A863-43CF2EB4EE4A
+
+CGenerateDSYMFile /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app.dSYM /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/TouchPropagateTest
+s426712005.822907
+e426712005.860044
+r1
+xGenerateDSYMFile
+x/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app.dSYM
+x/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/TouchPropagateTest
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection149"Generate /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app.dSYM222"GenerateDSYMFile DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app.dSYM DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/TouchPropagateTesta1b9d2c51b6fb941^c32cdcc51b6fb941^---0#0#1#-19%DVTDocumentLocation2@147"file:///Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app.dSYM0034b050deffdf42^1034"GenerateDSYMFile DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app.dSYM DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/TouchPropagateTest    cd /Users/pdougherty/Desktop/TouchPropagateTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Developer/android-sdk/tools:/Developer/android-sdk/platform-tools:/Developer/android-ndk:/Developer/moto"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/TouchPropagateTest -o /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app.dSYM36"3A0B086F-D573-427C-9716-82B60C9370F5-
+b224BAD45-C832-4F5A-A863-43CF2EB4EE4A
+
+CLd /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/TouchPropagateTest normal i386
+s426712005.784652
+e426712005.822229
+r1
+xLd
+x/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/TouchPropagateTest
+xnormal
+xi386
+d/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/TouchPropagateTest.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/TPTRootViewController.o
+d/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/AppDelegate.o
+d/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection159"Link /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/TouchPropagateTest124"Ld DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/TouchPropagateTest normal i38651f8c8c51b6fb941^0f7ed2c51b6fb941^---0#0#1#--1886"Ld DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/TouchPropagateTest normal i386    cd /Users/pdougherty/Desktop/TouchPropagateTest    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Developer/android-sdk/tools:/Developer/android-sdk/platform-tools:/Developer/android-ndk:/Developer/moto"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator -F/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator -filelist /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/TouchPropagateTest.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/Objects-normal/i386/TouchPropagateTest_dependency_info.dat -o /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/TouchPropagateTest36"6B5348FA-1861-492C-8D5B-4E7FB0D5CDB7-
+b224BAD45-C832-4F5A-A863-43CF2EB4EE4A
+
+CProcessInfoPlistFile /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/Info.plist /Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/TouchPropagateTest-Info.plist
+s426712007.292355
+e426712007.294731
+r1
+xProcessInfoPlistFile
+x/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/Info.plist
+x/Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/TouchPropagateTest-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Process /Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/TouchPropagateTest-Info.plist171"ProcessInfoPlistFile DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/Info.plist TouchPropagateTest/TouchPropagateTest-Info.plistffe94ac71b6fb941^04744bc71b6fb941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/TouchPropagateTest-Info.plist0000000000000000^1300"ProcessInfoPlistFile DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/Info.plist TouchPropagateTest/TouchPropagateTest-Info.plist    cd /Users/pdougherty/Desktop/TouchPropagateTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Developer/android-sdk/tools:/Developer/android-sdk/platform-tools:/Developer/android-ndk:/Developer/moto"    builtin-infoPlistUtility /Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/TouchPropagateTest-Info.plist -genpkginfo /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/assetcatalog_generated_info.plist -o /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app/Info.plist36"9E209111-D356-402F-BA57-43134FFE4D9B-
+b224BAD45-C832-4F5A-A863-43CF2EB4EE4A
+
+CProcessPCH /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/PrecompiledHeaders/TouchPropagateTest-Prefix-fnfylsnpqtsvvwgmzjxolcvzghqi/TouchPropagateTest-Prefix.pch.pch TouchPropagateTest/TouchPropagateTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426712004.838089
+e426712005.720182
+r1
+xProcessPCH
+x/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/PrecompiledHeaders/TouchPropagateTest-Prefix-fnfylsnpqtsvvwgmzjxolcvzghqi/TouchPropagateTest-Prefix.pch.pch
+xTouchPropagateTest/TouchPropagateTest-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/TouchPropagateTest-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Precompile TouchPropagateTest/TouchPropagateTest-Prefix.pch286"ProcessPCH DerivedData/TouchPropagateTest/Build/Intermediates/PrecompiledHeaders/TouchPropagateTest-Prefix-fnfylsnpqtsvvwgmzjxolcvzghqi/TouchPropagateTest-Prefix.pch.pch TouchPropagateTest/TouchPropagateTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd7a5d6c41b6fb941^d05fb8c51b6fb941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/TouchPropagateTest-Prefix.pch0000000000000000^4443"ProcessPCH DerivedData/TouchPropagateTest/Build/Intermediates/PrecompiledHeaders/TouchPropagateTest-Prefix-fnfylsnpqtsvvwgmzjxolcvzghqi/TouchPropagateTest-Prefix.pch.pch TouchPropagateTest/TouchPropagateTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pdougherty/Desktop/TouchPropagateTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Developer/android-sdk/tools:/Developer/android-sdk/platform-tools:/Developer/android-ndk:/Developer/moto"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/TouchPropagateTest-generated-files.hmap -I/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/TouchPropagateTest-own-target-headers.hmap -I/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/TouchPropagateTest-all-target-headers.hmap -iquote /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/TouchPropagateTest-project-headers.hmap -I/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/DerivedSources/i386 -I/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/TouchPropagateTest.build/Debug-iphonesimulator/TouchPropagateTest.build/DerivedSources -F/Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/PrecompiledHeaders/TouchPropagateTest-Prefix-fnfylsnpqtsvvwgmzjxolcvzghqi/TouchPropagateTest-Prefix.pch.dia -MMD -MT dependencies -MF /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/PrecompiledHeaders/TouchPropagateTest-Prefix-fnfylsnpqtsvvwgmzjxolcvzghqi/TouchPropagateTest-Prefix.pch.d -c /Users/pdougherty/Desktop/TouchPropagateTest/TouchPropagateTest/TouchPropagateTest-Prefix.pch -o /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Intermediates/PrecompiledHeaders/TouchPropagateTest-Prefix-fnfylsnpqtsvvwgmzjxolcvzghqi/TouchPropagateTest-Prefix.pch.pch36"9ADBDBE5-5B16-47FE-8B06-D7F7FBBA2ED1-
+b224BAD45-C832-4F5A-A863-43CF2EB4EE4A
+
+CProcessPCH /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Index/PrecompiledHeaders/TouchPropagateTest-Prefix-eufpuerpgofdjmgtmvfrvexudvmc_ast/TouchPropagateTest-Prefix.pch.pch TouchPropagateTest/TouchPropagateTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/pdougherty/Desktop/TouchPropagateTest/DerivedData/TouchPropagateTest/Build/Products/Debug-iphonesimulator/TouchPropagateTest.app
+r0
+
